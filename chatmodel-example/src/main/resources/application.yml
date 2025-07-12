@@ -1,0 +1,5 @@
+spring:
+  ai:
+    dashscope:
+      api-key: ${ALI_AI_KEY}
+      model: qwq-32b

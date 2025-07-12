@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-cloud-ai-example/target/
+/.idea/
+/chatmodel-example/target/
